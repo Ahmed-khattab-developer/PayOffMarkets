@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PayOffMarkets</string>
+    <string name="add_new_market">Add New Market</string>
+    <string name="market_name">market name</string>
+    <string name="market_number">market number</string>
+    <string name="city">city</string>
+    <string name="district">district</string>
+    <string name="textNoInternet">هناك مشكلة في اتصالك بالانترنت</string>
+    <string name="street">street</string>
+    <string name="description">description</string>
+    <string name="add">Add Market</string>
+    <string name="add_market_name">add Market Name</string>
+    <string name="add_market_number">add Market Number</string>
+    <string name="add_market_city">add Market City</string>
+    <string name="add_market_district">add Market District</string>
+    <string name="add_market_street">add Market Street</string>
+    <string name="add_market_description">add Market Description</string>
+    <string name="add_market_location_on_map">add Market Location On Map</string>
+    <string name="empty">القائمة فارغة</string>
+
+</resources>

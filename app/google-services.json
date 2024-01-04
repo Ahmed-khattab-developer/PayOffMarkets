@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23169316895",
+    "project_id": "payoffmarkets",
+    "storage_bucket": "payoffmarkets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23169316895:android:a20f843fbc4877b55bfd2a",
+        "android_client_info": {
+          "package_name": "com.khattab.payoff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWp29hLz4NdHHZXsifvJ0wMh8agdSXPGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
